@@ -1,1 +1,2 @@
-python main
+msg = lembrete
+print("olá")
